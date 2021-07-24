@@ -274,11 +274,12 @@ nav > a {
   height: 75%;
 }
 
+/*Zoom:hover de imagenes*/
 .zoom{
   transition: transform 0.5s;
 }
 .zoom:hover{
 transform: scale(1.2);
-
-
 }
+
+/*Hipervinculo de productos*/
